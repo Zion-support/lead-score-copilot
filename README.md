@@ -34,4 +34,7 @@ Sales and marketing teams with more inbound volume than rep hours.
 - [ad-budget-optimizer](https://github.com/Zion-support/ad-budget-optimizer) — fill the funnel efficiently: https://ziontechgroup.com/ad-budget-optimizer/
 
 ---
+
+📓 Category: [Sales Pipeline & Revenue AI](https://github.com/Zion-support/zion-network/blob/main/network/sales-pipeline-ai.md) · 📣 Spotlight: [Sales Pipeline & Revenue AI suite](https://github.com/Zion-support/zion-network/blob/main/spotlights/sales-pipeline-ai.md) · 📇 Master index: [APPS_NETWORK.md](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+
 © 2026 Zion Tech Group · https://ziontechgroup.com/
